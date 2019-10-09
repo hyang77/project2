@@ -1,1 +1,1 @@
-# This project2 is for ITMD-361 class.
+# This project1 is for itmd-361 class.
