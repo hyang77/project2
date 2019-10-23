@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Asap|EB+Garamond&display=swap');
 
-
 body {
   background-color: white;
   color: black;
@@ -35,6 +34,9 @@ p {
   margin: 0.5em;
 }
 
+nav {
+  text-align: center;
+}
 ul {
   list-style-type: none;
   margin: 0;
@@ -42,7 +44,9 @@ ul {
   overflow: hidden;
   background-color: #ffffff;
   border-bottom: 2px solid SkyBlue;
+  display: inline-block;
 }
+
 
 li {
   float: left;
